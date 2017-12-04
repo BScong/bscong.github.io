@@ -18,6 +18,6 @@ linkedin_username: benoit-zhong
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-110557429-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
