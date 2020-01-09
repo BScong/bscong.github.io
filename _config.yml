@@ -1,6 +1,6 @@
 # Site settings
 title: Benoit Zhong
-description: Software Engineering Student
+description: Software Engineer
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zhong.fr" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
